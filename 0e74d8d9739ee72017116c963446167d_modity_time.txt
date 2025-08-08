@@ -1,0 +1,11 @@
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/LuaRTTI.MarkGen.lua, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/config.json, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/image/eyebrow/eyebrow.png, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/image/eyebrow/eyebrow.png.meta, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/lua/makeup.lua, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/makeup.prefab, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/material/Brow.material, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/mesh/brow_faceu_mesh.mesh, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/xshader/brow_faceu.frag, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/xshader/brow_faceu.vert, 1753816664
+/Users/parviz/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7406275011327151365/0e74d8d9739ee72017116c963446167d/xshader/brow_faceu_xshader.xshader, 1753816664
